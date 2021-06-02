@@ -17,5 +17,5 @@ request==2019.4.13
 requests==2.22.0
 soupsieve==1.9.2
 sqlparse==0.3.0
-urllib3==1.25.3
+urllib3==1.26.5
 whitenoise==4.1.3
